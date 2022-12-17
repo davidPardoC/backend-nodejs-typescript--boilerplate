@@ -18,3 +18,5 @@ The dependencies included are:
 * "typescript"
 * "dotenv"
 * "express"
+
+All PRs are wellcome ❤️
