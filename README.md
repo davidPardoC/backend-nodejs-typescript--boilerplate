@@ -1,6 +1,6 @@
 # Node.Js and Typescript boilerplate
 
-This boilerplate include all you need to start working in a backend project with Node.js and Typescript and also integrates some tools for aplying the best practices like linting and code formating.
+This boilerplate include all you need to start working in a backend project with Node.js and Typescript and also integrates some tools for aplying the best practices like linting and code formating. This last two ones features are based on airbnb configuration
 
 The dependencies included are:
 
