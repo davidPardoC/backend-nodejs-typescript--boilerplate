@@ -4,8 +4,8 @@ This boilerplate include all you need to start working in a backend project with
 
 The dependencies included are:
 
-*  "@types/express"
-*   "@typescript-eslint/eslint-plugin"
+* "@types/express"
+* "@typescript-eslint/eslint-plugin"
 * "@typescript-eslint/parser"
 * "eslint"
 * "eslint-config-airbnb-base"
@@ -18,6 +18,8 @@ The dependencies included are:
 * "typescript"
 * "dotenv"
 * "express"
+* "jest"
+* "ts-jest
 
 
 All PRs are wellcome ❤️
